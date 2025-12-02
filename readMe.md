@@ -1,0 +1,59 @@
+# 40 Days Of JavaScript
+
+| # Day |                                                                       Topics                                                                        |
+| ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 01    |                                                             [Introduction](./readMe.md)                                                             |
+| 02    |                                               [Data Types](./02_Day_Data_types/02_day_data_types.md)                                                |
+| 03    |                             [Booleans, Operators, Date](./03_Day_Booleans_operators_date/03_booleans_operators_date.md)                             |
+| 04    |                                            [Conditionals](./04_Day_Conditionals/04_day_conditionals.md)                                             |
+| 05    |                                                     [Arrays](./05_Day_Arrays/05_day_arrays.md)                                                      |
+| 06    |                                                       [Loops](./06_Day_Loops/06_day_loops.md)                                                       |
+| 07    |                                                 [Functions](./07_Day_Functions/07_day_functions.md)                                                 |
+| 08    |                                                    [Objects](./08_Day_Objects/08_day_objects.md)                                                    |
+| 09    |                             [Higher Order Functions](./09_Day_Higher_order_functions/09_day_higher_order_functions.md)                              |
+| 10    |                                           [Sets and Maps](./10_Day_Sets_and_Maps/10_day_Sets_and_Maps.md)                                           |
+| 11    |                      [Destructuring and Spreading](./11_Day_Destructuring_and_spreading/11_day_destructuring_and_spreading.md)                      |
+| 12    |                                  [Regular Expressions](./12_Day_Regular_expressions/12_day_regular_expressions.md)                                  |
+| 13    |                             [Console Object Methods](./13_Day_Console_object_methods/13_day_console_object_methods.md)                              |
+| 14    |                                         [Error Handling](./14_Day_Error_handling/14_day_error_handling.md)                                          |
+| 15    |                                                    [Classes](./15_Day_Classes/15_day_classes.md)                                                    |
+| 16    |                                                        [JSON](./16_Day_JSON/16_day_json.md)                                                         |
+| 17    |                                            [Web Storages](./17_Day_Web_storages/17_day_web_storages.md)                                             |
+| 18    |                                                  [Promises](./18_Day_Promises/18_day_promises.md)                                                   |
+| 19    |                                                   [Closure](./19_Day_Closures/19_day_closures.md)                                                   |
+| 20    |                                  [Writing Clean Code](./20_Day_Writing_clean_codes/20_day_writing_clean_codes.md)                                   |
+| 21    |                                                          [DOM](./21_Day_DOM/21_day_dom.md)                                                          |
+| 22    |                            [Manipulating DOM Object](./22_Day_Manipulating_DOM_object/22_day_manipulating_DOM_object.md)                            |
+| 23    |                                        [Event Listeners](./23_Day_Event_listeners/23_day_event_listeners.md)                                        |
+| 24    |                             [Mini Project: Solar System](./24_Day_Project_solar_system/24_day_project_solar_system.md)                              |
+| 25    | [Mini Project: World Countries Data Visualization 1](./25_Day_World_countries_data_visualization_1/25_day_world_countries_data_visualization_1.md) |
+| 26    | [Mini Project: World Countries Data Visualization 2](./26_Day_World_countries_data_visualization_2/26_day_world_countries_data_visualization_2.md) |
+| 27    |                             [Mini Project: Portfolio](./27_Day_Mini_project_portfolio/27_day_mini_project_portfolio.md)                             |
+| 28    |                          [Mini Project: Leaderboard](./28_Day_Mini_project_leaderboard/28_day_mini_project_leaderboard.md)                          |
+| 29    |             [Mini Project: Animating characters](./29_Day_Mini_project_animating_characters/29_day_mini_project_animating_characters.md)             |
+| 30    |                                     [Mini Project: Final](./30_Day_Mini_project_final/30_day_mini_project_final.md)                                      |
+| 31    |                                            [Advanced DOM](./31_Day_Advanced_DOM/31_day_advanced_dom.md)                                              |
+| 32    |                                                  [Fetch API](./32_Day_Fetch_API/32_day_fetch_api.md)                                                  |
+| 33    |                                                [Async/Await](./33_Day_Async_Await/33_day_async_await.md)                                              |
+| 34    |                                                    [Modules](./34_Day_Modules/34_day_modules.md)                                                    |
+| 35    |                                            [Advanced Classes](./35_Day_Classes_Advanced/35_day_classes_advanced.md)                                    |
+| 36    |                                   [Iterators and Generators](./36_Day_Iterators_Generators/36_day_iterators_generators.md)                          |
+| 37    |                                        [Proxies and Reflection](./37_Day_Proxies_Reflection/37_day_proxies_reflection.md)                            |
+| 38    |                                            [Web Components](./38_Day_Web_Components/38_day_web_components.md)                                        |
+| 39    |                                                [Build Tools](./39_Day_Build_Tools/39_day_build_tools.md)                                            |
+| 40    |                                                [Final Project](./40_Day_Final_Project/40_day_final_project.md)                                       |
+
+<div align="center">
+  <h1> 40 Days Of JavaScript: Introduction</h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/shubhamgundu/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+
+<sub>Author:
+<a href="https://www.linkedin.com/in/shubhamgundu/" target="_blank">Shubham Gundu</a><br>
+<small> OCTOBER, 2025</small>
+</sub>
+
+</div>
+
+[Day 2 >>](./02_Day_Data_types/02_day_data_types.md)
